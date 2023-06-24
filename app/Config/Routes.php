@@ -39,6 +39,7 @@ $routes->get('about', 'About::index');
 $routes->get('resume', 'Resume::index');
 $routes->get('portfolio', 'Portfolio::index');
 $routes->get('contact', 'Contact::index');
+$routes->get('project', 'Project::index');
 
 
 
